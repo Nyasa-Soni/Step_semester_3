@@ -1,0 +1,10 @@
+# Java compiled class files
+*.class
+
+# Build and IDE outputs
+out/
+target/
+.idea/
+.vscode/
+bin/
+*.jar
